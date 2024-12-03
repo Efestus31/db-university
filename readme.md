@@ -31,6 +31,7 @@
    * id_appello | (PK INT AI)
    * data | DATE
    * id_corso | INT
+   * voto | TINYINT
    * descrizione | VARCHAR(200) NULL
 
 * Studente
